@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AVISHEK NANDI) [![Hackerrank](https://img.shields.io/badge/hackerrank-%230077B5.svg?logo=hackerrank&logoColor=green&color=black
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishek-nandi-265221134/) [![Hackerrank](https://img.shields.io/badge/hackerrank-%230077B5.svg?logo=hackerrank&logoColor=green&color=black
 )](https://www.hackerrank.com/profile/nandiavi09) 
 
 # 💻 Tech Stack:
