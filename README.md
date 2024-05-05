@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AVISHEK NANDI) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AVISHEK NANDI) [![Hackerrank](https://bookface-images.s3.amazonaws.com/logos/d0ee664b5d927c7f395fd14fbb7e337dc5b84430.png?1648738783)](https://www.hackerrank.com/profile/nandiavi09) 
 
 # 💻 Tech Stack:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
